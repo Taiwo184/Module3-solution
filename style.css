@@ -1,0 +1,58 @@
+.body{
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #61122f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-expand-lg{
+    background-color: #198754;
+
+}
+
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.6rem;
+    color: #557c3e;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+}
+.navbar-nav{
+    text-align: center;
+    color: darkorange;
+    align-items: center;
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar-nav .nav-item:hover{
+    background-color: honeydew;
+    
+}
+
+.subheader{
+    padding: 25px 0px 10px;
+    text-align: center;
+    align-items: center;
+    line-height: 1px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container-fluid{
+    padding: 5px 40px 0px;
+    background-color: brown;
+}
+.row{
+    padding: 0px 60px 0px;
+}
+.col-xs-12 h3{
+    font-family: sans-serif;
+    color: rgb(128, 128, 128);
+    font-size: 1.0rem;
+    padding: 0px 10px;
+}
+.col-xs-12 p{
+    padding: 0px 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
